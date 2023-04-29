@@ -5,7 +5,7 @@
 
 <!--  <h1 align="center">Hi 👋, I'm Shahid Afridi</h1> -->
 
-<h4 align="center">Skilled Fullstack Web Developer with Expertise in MERN Stack and a Growing Interest in Competitive Programming from Bangladesh</h4>
+<h4 align="center">Skilled Fullstack Web Developer with Expertise in MERN Stack and a Growing Interest in Problem Solving from Bangladesh</h4>
 <img align="right" alt="Coding" width="350" 
 
 
