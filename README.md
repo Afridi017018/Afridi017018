@@ -43,6 +43,16 @@
 
 - 📫 How to reach me **shahidafridi017018@gmail.com**
 
+
+<br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afridi017018)](https://git.io/streak-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afridi017018&show_icons=true&locale=en" alt="afridi017018" /></p>
+
+<br>
+
 <!-- - 📄 Know about my experiences [resumecomingsoon.com](resumecomingsoon.com) -->
 
 <!-- <h3 align="left">Badges:</h3> -->
@@ -71,6 +81,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afridi017018&show_icons=true&locale=en&layout=compact" alt="afridi017018" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afridi017018&show_icons=true&locale=en" alt="afridi017018" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afridi017018&" alt="afridi017018" /></p>
+
+
