@@ -1,7 +1,10 @@
-<a align="center" href="https://www.facebook.com/Afridi017018/">
-<img src="./Banner/Shahid Afiridi.png" />
-</a>
 
+
+<div  align="center">
+<a href="https://www.facebook.com/Afridi017018/">
+<img width="100% src="./Banner/Shahid Afiridi.png" />
+</a>
+</div>
 
 <br>
 <br>
