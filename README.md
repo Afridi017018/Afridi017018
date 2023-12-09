@@ -47,7 +47,7 @@
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afridi017018)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=afridi017018)](https://git.io/streak-stats)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afridi017018&show_icons=true&locale=en" alt="afridi017018" /></p> -->
 
