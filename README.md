@@ -61,7 +61,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,nodejs,mongodb,c,cpp,git,github,vscode,postman,firebase" />
   </a>
