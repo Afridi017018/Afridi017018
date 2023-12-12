@@ -36,7 +36,7 @@
 
 - 🌱 I’m exploring **NodeJs**
 
-<!-- - 👨‍💻 All of my projects are available at [shahidafridicomingsoon.com](shahidafridicomingsoon.com) -->
+<!-- - 👨‍💻My recent projects are available at [shahidafridicomingsoon.com](shahidafridicomingsoon.com) -->
 
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **Web development**
