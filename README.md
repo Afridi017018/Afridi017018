@@ -2,11 +2,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/Afridi017018/">
-<<<<<<< HEAD
     <img width="90%" height="300" src="./Banner/shahidafridiCoverPic.png" />
-=======
-    <img width="90%" height="250" src="./Banner/shahidafridicover.png" />
->>>>>>> 1deab87141240874ca1d38d0d6531ef764744897
   </a>
 </div>
 
