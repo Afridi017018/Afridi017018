@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/Afridi017018/">
-    <img width="90%" height="300" src="./Banner/shahidafridicover.png" />
+    <img width="90%" height="300" src="./Banner/shahidafridiCoverPic.png" />
   </a>
 </div>
 
